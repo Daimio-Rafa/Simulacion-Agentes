@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgentesRobots", "AgentesRobots\AgentesRobots.csproj", "{6611E1C4-A17B-4034-8015-5651674F5709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Visual", "Visual\Visual.csproj", "{0B443940-E85C-4ABE-9BC6-45436A00830E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6611E1C4-A17B-4034-8015-5651674F5709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6611E1C4-A17B-4034-8015-5651674F5709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6611E1C4-A17B-4034-8015-5651674F5709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6611E1C4-A17B-4034-8015-5651674F5709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B443940-E85C-4ABE-9BC6-45436A00830E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B443940-E85C-4ABE-9BC6-45436A00830E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B443940-E85C-4ABE-9BC6-45436A00830E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B443940-E85C-4ABE-9BC6-45436A00830E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0828553-92E0-48E8-86BA-925F68BA2FC3}
+	EndGlobalSection
+EndGlobal
